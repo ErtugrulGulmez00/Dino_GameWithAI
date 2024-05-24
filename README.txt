@@ -1,2 +1,1 @@
-projemi tek başıma yaptım herhangi bir grubum yoktur.
-https://github.com/ErtugrulGulmez00
+Yapay zeka ile eğitilmiş kısmı test.py dosyamda mevcuttur.Oyunu yapay zekasız olarakda yükledim dosya içinde mevcuttur.
