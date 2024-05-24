@@ -13,6 +13,8 @@ pip install -r requirements.txt
 
 #USAGE
 Training the Model To train the AI model, run the following command python play.py
+![image](https://github.com/ErtugrulGulmez00/Dino_GameWithAI/assets/113963823/34485145-8417-4014-8448-7c28a0642855)
+
 
 Playing the Game To play the game using the trained model, run the following command python test.py
 
