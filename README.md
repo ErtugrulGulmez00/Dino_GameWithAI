@@ -1,26 +1,31 @@
 # Dino Game with Reinforcement Learning
 
-This project is a simple Dino game where a dinosaur jumps over trees. The game uses reinforcement learning to train an agent to play the game using the Proximal Policy Optimization (PPO) algorithm from the Stable Baselines3 library.
-
 Installation
-
 Clone the repository:
+
+sh
+Kodu kopyala
 git clone https://github.com/ErtugrulGulmez00/Dino_GameWithAI.git
 cd Dino_GameWithAI
+Install the required dependencies:
 
-Install the required dependencies
-
+sh
+Kodu kopyala
 pip install -r requirements.txt
+Usage
+Training the Model
+To train the AI model, run the following command:
 
-USAGE
-Training the Model To train the AI model, run the following command
-python play.py
+sh
+Kodu kopyala
+python train_agent.py
+Playing the Game
+To play the game using the trained model, run the following command:
 
-Playing the Game To play the game using the trained model, run the following command
+sh
+Kodu kopyala
 python test.py
-
 Technologies
-
 Stable Baselines3
 Python 3.8
 Pygame 2.1.0: For developing the game environment.
